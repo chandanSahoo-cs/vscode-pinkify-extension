@@ -1,16 +1,27 @@
-# pinkify README
+# 🌸 Pinkify Theme for VS Code
 
-## Working with Markdown
+Give your Visual Studio Code a stylish **pinkish tint** with the **Pinkify Theme**!  
+This theme adds soft contrast, vibrant syntax highlighting, and works with **both light and dark** modes.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 🔥 Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Soft pink UI tint across the editor
+- High-contrast syntax for:
+  - Keywords
+  - Comments
+  - Functions
+  - Types (`int`, `bool`, etc.)
+- Supports both **light** and **dark** variants
+- Optimized for readability and aesthetics
 
-## For more information
+## 📸 Preview
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Dark Theme
+![Pinkify Dark](./screenshots/dark.png)
 
-**Enjoy!**
+### Light Theme
+![Pinkify Light](./screenshots/light.png)
+
+## 📝 License
+
+This theme is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
