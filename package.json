@@ -2,9 +2,9 @@
   "publisher": "Realm",
   "name": "pinkify-theme",
   "displayName": "Pinkify",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "description": "A pink-tinted theme for VS Code. Light and Dark included.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "engines": {
     "vscode": "^1.88.0"
