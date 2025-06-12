@@ -1,0 +1,26 @@
+{
+  "name": "pinkify",
+  "displayName": "Pinkify",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pinkify-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pinkify-dark-color-theme.json"
+      },
+      {
+        "label" : "pinkify-light",
+        "uiTheme": "vs",
+        "path": "./themes/pinkify-light-color-theme.json"
+      }
+    ]
+  }
+}
