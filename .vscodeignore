@@ -2,3 +2,14 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+node_modules
+.vscode
+.vscodeignore
+*.vsix
+*.log
+*.zip
+*.exe
+*.sh
+*.bat
+Thumbs.db
+.DS_Store
